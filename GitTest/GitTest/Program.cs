@@ -8,6 +8,7 @@ namespace GitTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Add new line in test1Branch");
+            Console.WriteLine("Add new more line in test1Branch for test");
         }
     }
 }
